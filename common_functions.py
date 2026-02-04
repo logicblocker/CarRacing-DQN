@@ -1,3 +1,6 @@
+"""
+Common helpers for CarRacing-DQN. Author: logicblocker <saint.seiya.0223@gmail.com>
+"""
 import cv2
 import numpy as np
 
