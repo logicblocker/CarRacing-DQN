@@ -99,3 +99,7 @@ The Deep Q Network(DQN) takes 3 consecutive top views of the current state of th
 - As long as the model is well trained, the action that has the highest Q value should be the best action(could obtain the most rewards) that the agent should react to the environment.
 - Repeat the steps above so that the car is now self-driving:)
 
+## Author
+
+**logicblocker** — saint.seiya.0223@gmail.com
+

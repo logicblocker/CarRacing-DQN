@@ -1,3 +1,6 @@
+"""
+Play CarRacing with a trained DQN model. Author: logicblocker <saint.seiya.0223@gmail.com>
+"""
 import argparse
 import gym
 from collections import deque

@@ -1,3 +1,6 @@
+"""
+Play CarRacing with keyboard. Author: logicblocker <saint.seiya.0223@gmail.com>
+"""
 import gym
 
 is_pressed_left  = False # control left

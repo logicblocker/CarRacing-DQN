@@ -1,3 +1,6 @@
+"""
+CarRacing DQN agent. Author: logicblocker <saint.seiya.0223@gmail.com>
+"""
 import random
 import numpy as np
 from collections import deque
